@@ -1,0 +1,2 @@
+# proyecto-web
+En este proyecto necesitamos crear una base de datos llamado "amarsarte" mediante el gestor de base de datos SQL server. Además se crea se modifica el usuario y contraseña en application.properties.
